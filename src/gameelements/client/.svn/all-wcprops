@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/main/!svn/ver/67/trunk/SubmarineHunter/src/gameelements/client
+END
+ClientGameElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/main/!svn/ver/42/trunk/SubmarineHunter/src/gameelements/client/ClientGameElement.java
+END
+ClientTorpedo.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/main/!svn/ver/67/trunk/SubmarineHunter/src/gameelements/client/ClientTorpedo.java
+END
+ClientSubmarine.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/main/!svn/ver/66/trunk/SubmarineHunter/src/gameelements/client/ClientSubmarine.java
+END

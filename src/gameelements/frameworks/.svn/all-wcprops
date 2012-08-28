@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/main/!svn/ver/67/trunk/SubmarineHunter/src/gameelements/frameworks
+END
+AbstractSubmarine.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/main/!svn/ver/66/trunk/SubmarineHunter/src/gameelements/frameworks/AbstractSubmarine.java
+END
+AbstractGameElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/main/!svn/ver/66/trunk/SubmarineHunter/src/gameelements/frameworks/AbstractGameElement.java
+END
+AbstractTorpedo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/main/!svn/ver/67/trunk/SubmarineHunter/src/gameelements/frameworks/AbstractTorpedo.java
+END
+AbstractMine.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/main/!svn/ver/66/trunk/SubmarineHunter/src/gameelements/frameworks/AbstractMine.java
+END

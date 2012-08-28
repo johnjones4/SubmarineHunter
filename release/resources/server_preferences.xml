@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Submarine Server Hunter Properties</comment>
+<entry key="ocean_depth">5000</entry>
+<entry key="max_mines">500</entry>
+<entry key="mine_scatter">1000</entry>
+<entry key="random_placement_step">100</entry>
+<entry key="random_placement_tries">10</entry>
+</properties>

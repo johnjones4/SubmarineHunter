@@ -1,0 +1,37 @@
+10
+
+dir
+67
+http://submarinehunter.svn.beanstalkapp.com/main/trunk/SubmarineHunter/src/userinterface
+http://submarinehunter.svn.beanstalkapp.com/main
+
+
+
+2009-12-08T00:21:20.949432Z
+67
+johnjones4
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+aa82f214-ce2d-4858-8473-387a7a9745b2
+
+graphics
+dir
+
+input
+dir
+
+sound
+dir
+

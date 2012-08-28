@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/main/!svn/ver/54/trunk/SubmarineHunter/Documentation/JavaDoc/gameelements/frameworks
+END
+AbstractGameElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/main/!svn/ver/54/trunk/SubmarineHunter/Documentation/JavaDoc/gameelements/frameworks/AbstractGameElement.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/main/!svn/ver/54/trunk/SubmarineHunter/Documentation/JavaDoc/gameelements/frameworks/package-frame.html
+END
+AbstractMine.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/main/!svn/ver/54/trunk/SubmarineHunter/Documentation/JavaDoc/gameelements/frameworks/AbstractMine.html
+END
+AbstractTorpedo.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/main/!svn/ver/54/trunk/SubmarineHunter/Documentation/JavaDoc/gameelements/frameworks/AbstractTorpedo.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/main/!svn/ver/54/trunk/SubmarineHunter/Documentation/JavaDoc/gameelements/frameworks/package-tree.html
+END
+AbstractSubmarine.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/main/!svn/ver/54/trunk/SubmarineHunter/Documentation/JavaDoc/gameelements/frameworks/AbstractSubmarine.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/main/!svn/ver/54/trunk/SubmarineHunter/Documentation/JavaDoc/gameelements/frameworks/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/main/!svn/ver/54/trunk/SubmarineHunter/Documentation/JavaDoc/gameelements/frameworks/package-summary.html
+END
